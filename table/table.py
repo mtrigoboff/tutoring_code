@@ -1,3 +1,8 @@
+# in the format specifiers:
+#    < means left justify
+#    ^ means center
+#    > means right justify
+
 hdrs = [['track',			'price',		'currency',		'total',	'rating'],
 		['-----',			'-----',		'--------',		'-----',	'------']
 	   ]
