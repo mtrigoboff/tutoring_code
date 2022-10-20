@@ -6,6 +6,7 @@
 hdrs = [['track',			'price',		'currency',		'total',	'rating'],
 		['-----',			'-----',		'--------',		'-----',	'------']
 	   ]
+
 table = [['Facebook',		0.0,			'USD',			2974676,	3.5],
 		 ['Instagram',		0.0,			'USD',			2161558,	4.5],
 		 ['Clash of Clans',	0.0,			'USD',			2130805,	4.5],
