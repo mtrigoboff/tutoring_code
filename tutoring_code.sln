@@ -31,6 +31,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "python_stack", "python_stac
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "python__str__", "python__str__\python__str__.pyproj", "{8E63926E-7286-4579-8AE9-EE99701C57B6}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "python_dict", "python_dict\python_dict.pyproj", "{DE25E702-C7C6-44F1-8D7F-BF6EBCB3DEF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -179,6 +181,12 @@ Global
 		{8E63926E-7286-4579-8AE9-EE99701C57B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E63926E-7286-4579-8AE9-EE99701C57B6}.Release|x64.ActiveCfg = Release|Any CPU
 		{8E63926E-7286-4579-8AE9-EE99701C57B6}.Release|x86.ActiveCfg = Release|Any CPU
+		{DE25E702-C7C6-44F1-8D7F-BF6EBCB3DEF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE25E702-C7C6-44F1-8D7F-BF6EBCB3DEF0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DE25E702-C7C6-44F1-8D7F-BF6EBCB3DEF0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DE25E702-C7C6-44F1-8D7F-BF6EBCB3DEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE25E702-C7C6-44F1-8D7F-BF6EBCB3DEF0}.Release|x64.ActiveCfg = Release|Any CPU
+		{DE25E702-C7C6-44F1-8D7F-BF6EBCB3DEF0}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
