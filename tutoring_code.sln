@@ -33,6 +33,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "python__str__", "python__st
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "python_dict", "python_dict\python_dict.pyproj", "{DE25E702-C7C6-44F1-8D7F-BF6EBCB3DEF0}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "python_medical", "python_oo_intro\python_medical.pyproj", "{D3110FFD-492E-4897-A753-040E4CE6AE43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -187,6 +189,12 @@ Global
 		{DE25E702-C7C6-44F1-8D7F-BF6EBCB3DEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE25E702-C7C6-44F1-8D7F-BF6EBCB3DEF0}.Release|x64.ActiveCfg = Release|Any CPU
 		{DE25E702-C7C6-44F1-8D7F-BF6EBCB3DEF0}.Release|x86.ActiveCfg = Release|Any CPU
+		{D3110FFD-492E-4897-A753-040E4CE6AE43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3110FFD-492E-4897-A753-040E4CE6AE43}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D3110FFD-492E-4897-A753-040E4CE6AE43}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D3110FFD-492E-4897-A753-040E4CE6AE43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3110FFD-492E-4897-A753-040E4CE6AE43}.Release|x64.ActiveCfg = Release|Any CPU
+		{D3110FFD-492E-4897-A753-040E4CE6AE43}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
